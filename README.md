@@ -49,29 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mark1codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mark1codes&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280" height="170"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mark1codes&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" width="100%"/>
-
-</div>
 
 ---
 
@@ -81,7 +59,7 @@
 |--------|------|---------|
 | 2025 – Present | 🖥️ Front-End Web Developer | Infinity Hub |
 | 2025 – Present | 📱 Mobile App Developer | Infinity Hub |
-| 2025 – Present | 💼 Freelance Software Developer | Self-employed |
+| 2026 – Present | 💼 Freelance Software Developer | Self-employed |
 
 ---
 
