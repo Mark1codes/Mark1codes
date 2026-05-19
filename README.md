@@ -16,7 +16,7 @@
 
 > *Results-driven technology professional specializing in crafting intuitive, user-centric web and mobile applications that drive measurable business value.*
 
-- 🏢 **Currently working at** — Infinity Hub as Front-End Web Developer & Mobile App Developer
+
 - 📱 **Specialization** — React Native cross-platform mobile apps & Next.js web development
 - 🎓 **Education** — BS Information Technology, Holy Cross of Davao College (2021–2025)
 - 📍 **Based in** — Davao City, Philippines
